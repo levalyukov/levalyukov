@@ -1,4 +1,4 @@
-<img width="16px" style="border-radius: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="Telegram"/> [levalyukov: devlog](https://t.me/levalyukovtelegram)
+<img width="16px" style="border-radius: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="Telegram"/> [Miroro](https://t.me/studiomiroro)
 
 **Studio Miroro**\
 <img width="16px" style="border-radius: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK"/> [VK](https://vk.com/studio.miroro)\
